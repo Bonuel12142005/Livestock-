@@ -1,0 +1,6 @@
+{
+  "name": "KIMS Livestock",
+  "description": "Livestock distribution logging and monitoring module for the KAMBAC Integrated Management System (Carmundo, Bongabong, Oriental Mindoro).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
